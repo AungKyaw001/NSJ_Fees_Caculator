@@ -62,16 +62,4 @@ public class Athlete{
                 ", numOfCoachingHour=" + numOfCoachingHour +
                 '}';
     }
-
-    //    public double calculateCoachingFees(){
-//
-//    }
-//
-//    public String compareWeight(){
-//
-//    }
-//    public abstract double calculateCompetitionFee(){
-
-
-
 }
